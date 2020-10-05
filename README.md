@@ -1,5 +1,7 @@
 # Traffic-Signal-Recognition
 
+"This is Machine Learning and Data Science Project" 
+
 In this project, the knowledge and Idea about deep neural networks and convolution neuronal networks in special was applied to a real-world problem by using the deep learning Framework Keras with TensorFlow as backend. A convolutional neural network was built and then trained to classify german traffic signs. For that purpose, a dataset with over 50000 images was used. Afterwards, the model is tested with different traffic signs images from the web, to see how it performs in the real world.
 
 
@@ -16,7 +18,8 @@ The shape of a traffic sign image is 32 x 32 x 3
 
 The number of unique classes/labels in the data set is 43
 
-**********************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************
+
 This Can be your B.tech Project. {Project Guide and Mentor will happily accept this project}
 
 It's fully Python programming Project.
